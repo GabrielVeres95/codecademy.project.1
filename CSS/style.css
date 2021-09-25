@@ -9,11 +9,31 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
 .title {
     background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
     height: 120px;
+    margin-bottom: 60px;
 }
 
 #green {
     background-color: mediumspringgreen;
+}
+
+#coral {
+    background-color: lightcoral;
+}
+
+#skyblue {
+    background-color: skyblue;
+}
+
+.price {
+    font-weight: bold;
+    color: blue;
 }
